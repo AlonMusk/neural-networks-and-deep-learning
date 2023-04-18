@@ -2,7 +2,7 @@
 
 
 
-这个存储库包含我关于[“神经网络
+这个存储库包含[“神经网络
 
 和深度学习”](http://neuralnetworksanddeeplearning.com).
 
